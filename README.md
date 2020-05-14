@@ -1,4 +1,4 @@
-# Convolution-neural-network-cousera-
+# project using convolution neural network
 
 # About this project 
 - this project from tensrflow in practice specialization courser from coursera
