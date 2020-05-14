@@ -7,8 +7,10 @@
 
 # To include this dataset run this command :
 
-` sudo apt install keras
- 
+```
+
+sudo apt install keras
+``` 
 
  
 
