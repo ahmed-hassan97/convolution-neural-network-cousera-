@@ -1,4 +1,4 @@
-# project using convolution neural network
+# convolution neural network project
 
 ---
 
