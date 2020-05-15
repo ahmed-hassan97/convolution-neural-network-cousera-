@@ -78,13 +78,7 @@ To download click Here :point_down:
 
 [download](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5aea1b91_train-test-data/train-test-data.zip)
 
-#  how to use it :open_mouth:
 
--  download data 
-
-- extract it
-
----
 
 
 [Back To The Top](#README.md) :point_up:
